@@ -2,11 +2,11 @@
 
 ## Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Aplikasi ini merupakan sistem informasi manajemen personil TNI dengan struktur MVVM (Model-View-ViewModel).
+# Aplikasi ini merupakan sistem informasi manajemen personil TNI dengan struktur MVVM (Model-View-ViewModel).
 
 ## Struktur Tabel Database
 
-Aplikasi ini menggunakan 4 tabel dengan relasi:
+# Aplikasi ini menggunakan 4 tabel dengan relasi:
 
 1. **Tabel Satuan (Unit)**
    - id (PK)

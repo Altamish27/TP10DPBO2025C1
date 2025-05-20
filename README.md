@@ -1,6 +1,6 @@
 # Sistem Informasi Personil TNI TP 10
 
-## Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+## Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 10 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Aplikasi ini merupakan sistem informasi manajemen personil TNI dengan struktur MVVM (Model-View-ViewModel).
 
